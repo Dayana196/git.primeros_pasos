@@ -14,5 +14,5 @@ Bienvenidos
 # Edicion desde GitHub
 esta edicion se realizo desde GitHUb
 
-# Segunda edicio desde github
+# Segunda edicion desde github
 
