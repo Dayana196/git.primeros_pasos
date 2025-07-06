@@ -1,19 +1,19 @@
-# git.primeros_pasos
+# Git primeros pasos
 
 
 # Un hermoso titulo 
 HOLA MUNDO!!
 
-# COLABORAODRES 
+# COLABORADORES
 - Dayana Barbosa
-- otra dayana
+- Otro Autor 
 
 # Hermoso sub-titulo
-Bienvenidos
+Bienvenidos a mi Git :3
 
 # Edicion desde GitHub
-esta edicion se realizo desde GitHUb
+Esta edicion se realizo desde GitHub
 
 # Segunda edicion desde github
-ultima edicion 
+ultima edicion de este GitHub
 
